@@ -483,7 +483,7 @@ const LoginPage: FC = (): JSX.Element => {
     const cardStyles = {
         margin: 'auto',
         maxWidth: '80vw',
-        marginBottom: 50,
+        marginBottom: 30,
         backgroundColor: 'rgba(255,255,255, 0.95) !important',
     };
     return (
@@ -492,10 +492,11 @@ const LoginPage: FC = (): JSX.Element => {
             <Row
                 customStyles={{
                     width: '100vw',
-                    height: '100vh',
+                    height: '104vh',
                     background: `url(${bg}) top center no-repeat`,
                     backgroundSize: 'cover',
                     overflowY: 'auto',
+                    paddingTop: '50px',
                 }}
             >
                 <form onSubmit={formik.handleSubmit} style={cardStyles}>
