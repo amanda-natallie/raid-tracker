@@ -10,7 +10,7 @@ jobs:
               with:
                   token: ${{ secrets.VERCEL_TOKEN }}
                   teamId: ${{ secrets.VERCEL_ORG_ID }}
-                  projectName: femsa-orders-dashboard
+                  projectName: raid-tracker
                   envVariableKeys: NPM_TOKEN,GITHUB_TOKEN
               env:
                   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
