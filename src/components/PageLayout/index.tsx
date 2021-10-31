@@ -7,19 +7,13 @@ import {
     colors,
     Button,
 } from '@vallorisolutions/foa-design-system';
-import React, { useEffect, useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { api } from '../../api';
-import { useModals } from '../../helpers/modals';
+import React, { useState } from 'react';
 import { useLogout, usePath, useUrl } from '../../helpers/utils';
-import { PurchaseOrganizationProps, PurchaseRequisitionProps } from '../../mocks/entities';
-import { RootReducer } from '../../store/modules';
 import ReactLoading from 'react-loading';
 
 const PageLayout: React.FC = ({ children }): JSX.Element => {
-    const [isLoading, setIsLoading] = useState(true);
+    const [isLoading] = useState(true);
     const [term, setTerm] = useState('');
-    const dispatch = useDispatch();
     const { pathname, isActive } = usePath();
     const { navigate } = useUrl();
 

@@ -30,6 +30,7 @@ const reducer: Reducer<LayoutState> = (state = INITIAL_STATE, action) => {
         case LayoutTypes.SET_IS_LOADING:
             return { ...state, isLoading: action.payload, refreshList: !state.refreshList };
         case LayoutTypes.SET_DIALOG_INFO:
+            console.log(action.payload);
             return { ...state, dialog: action.payload, refreshList: !state.refreshList };
         case LayoutTypes.RESET_DIALOG:
             return { ...state, dialog: { ...state.dialog, isOpen: false }, refreshList: !state.refreshList };
