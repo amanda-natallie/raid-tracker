@@ -1,0 +1,263 @@
+[
+    {
+    "id": 58671,
+    "code": "T-W006",
+    "accountGroup": "Fornecedores",
+    "searchTerm": "P-C006",
+    "name": "Info componentes - LTDA",
+    "phone": " (11) 4649-8996",
+    "email": "infocomponentes@gmail.com",
+    "address": "Rua Vicente Licínio Cardoso, 009 - Vila Fanton - São Paulo - SP",
+    "payments": {
+        "id": 70487,
+        "country": "Brasil",
+        "bankKey": "341",
+        "agency": "0220",
+        "account": "03592-7",
+        "accountType": "Conta Corrente Especial",
+        "accountHolder": "Info componentes - LTDA"
+    },
+    "representative": {
+        "id": 90127,
+        "name": "Bruna Xavier da Silva",
+        "email": "brunaxsilva@hotmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/benefritz_128.jpg",
+        "idVendor": 8552
+    },
+    "stdDeliveryTime": "12 dias úteis",
+    "stdQty": 44781,
+    "minimumQty": 63922
+    },
+    {
+    "id": 16757,
+    "code": "T-W007",
+    "accountGroup": "Fornecedores Ocasionais",
+    "searchTerm": "I-P007",
+    "name": "Infopeças - LTDA",
+    "phone": "(11) 4012-8920",
+    "email": "infopeças@yahoo.com",
+    "address": "Rua Recife, 12 - Jardim Pérola III - São Paulo - SP ",
+    "payments": {
+        "id": 47983,
+        "country": "Brasil",
+        "bankKey": "1",
+        "agency": "6879",
+        "account": "69358-8",
+        "accountType": "Conta Corrente Especial",
+        "accountHolder": "Infopeças - LTDA"
+    },
+    "representative": {
+        "id": 42227,
+        "name": "Natália Barros Filho",
+        "email": "natalia@hotmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/itskawsar_128.jpg",
+        "idVendor": 51077
+    },
+    "stdDeliveryTime": "14 dias úteis",
+    "stdQty": 1456,
+    "minimumQty": 3040
+    },
+    {
+        "id": 49590,
+        "code": "T-W008",
+        "accountGroup": "Fornecedores de Serviços",
+        "searchTerm": "E-I008",
+        "name": "Equipamentos de Informática - LTDA",
+        "phone": "(11) 4977-2384",
+        "email": "equipinfosp@gmail.com",
+        "address": "Rua Cincinato Braga, 535 - Bela Vista - São Paulo -SP",
+        "payments": {
+            "id": 53814,
+            "country": "Brasil",
+            "bankKey": "341",
+            "agency": "4449",
+            "account": "66544-9",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Equipamentos de Informática - LTDA"
+        },
+        "representative": {
+            "id": 27863,
+            "name": "Lucas Saraiva Pereira ",
+            "email": "lucas.s.pereira@live.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/dudestein_128.jpg",
+            "idVendor": 13497
+        },
+        "stdDeliveryTime": "10 dias úteis",
+        "stdQty": 72619,
+        "minimumQty": 90893
+    },
+    {
+        "id": 6934,
+        "code": "T-W009",
+        "accountGroup": "Fornecedores Ocasionais",
+        "searchTerm": "C-C009",
+        "name": "Casa dos computadores",
+        "phone": "(11) 4491-4207",
+        "email": "casadoscomp@hotmail.com",
+        "address": "Rua Florêncio de Abreu, 157 - Centro - São Pualo - SP",
+        "payments": {
+            "id": 19450,
+            "country": "Brasil ",
+            "bankKey": "341",
+            "agency": "0646",
+            "account": "49499-7",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Casa dos computadores"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Jordana Machado Moraes",
+            "email": "jommoraes@gmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "14 dias úteis",
+        "stdQty": 18653,
+        "minimumQty": 95320
+    },
+    {
+        "id": 23666,
+        "code": "I-S001",
+        "accountGroup": "Fornecedores de Serviços",
+        "searchTerm": "U-T001",
+        "name": "Upgrade tecnologia",
+        "phone": "(11) 4223-4922",
+        "email": "upgradetecnologia@hotmail.com",
+        "address": "Avenida Fim de Semana 720 - Jardim Fim de Semana - São Paulo - SP",
+        "payments": {
+            "id": 35129,
+            "country": "Brasil",
+            "bankKey": "104",
+            "agency": "6995",
+            "account": "1263784-X",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Upgrade tecnologia - LTDA"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Josemar Pereira Júnior",
+            "email": "junior.josemar1975@hotmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "15 dias úteis",
+        "stdQty": 13332,
+        "minimumQty": 3227
+    },
+    {
+        "id": 42488,
+        "code": "I-M002",
+        "accountGroup": "Fornecedores de Mercadoria",
+        "searchTerm": "H-C002",
+        "name": "Hightech computadores",
+        "phone": "(11) 4022-7722",
+        "email": "htech_computadores@gmail.com",
+        "address": "Rua Agostino Togneri 001 - Jurubatuba - São Paulo - SP",
+        "payments": {
+            "id": 60000,
+            "country": "Brasil",
+            "bankKey": "341",
+            "agency": "8324",
+            "account": "00995-3",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Hightech computadores - LTDA"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Kleber da Silva Moreira",
+            "email": "klebersmoreira@gmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "12 dias úteis",
+        "stdQty": 73853,
+        "minimumQty": 33031
+    },
+    {
+        "id": 90362,
+        "code": "I-O003",
+        "accountGroup": "Fornecedores Ocasionais",
+        "searchTerm": "RT003",
+        "name": "Reparo Tecnológico - LTDA",
+        "phone": "(11) 4425-8935",
+        "email": "reparotech@gmail.com",
+        "address": "Rua Graciano Xavier, 11 - Vila Beatriz - São Paulo - SP",
+        "payments": {
+            "id": 39510,
+            "country": "Brasil",
+            "bankKey": "341",
+            "agency": "8093",
+            "account": "65466-6",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Casa da Informatica - LTDA"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Renata Soares dos Santos",
+            "email": "renatass@gmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "10 dias úteis",
+        "stdQty": 88087,
+        "minimumQty": 8704
+    },
+    {
+        "id": 99268,
+        "code": "I-S004",
+        "accountGroup": "Fornecedores de Serviços",
+        "searchTerm": "CR004",
+        "name": "Clear Reparos de Computadores - LTDA",
+        "phone": "(11) 4535-7484",
+        "email": "clearrc@gmail.com",
+        "address": "Rua Bela Cintra, 12 - Consolação - São Paulo - SP",
+        "payments": {
+            "id": 5005,
+            "country": "Brasil",
+            "bankKey": "1",
+            "agency": "6887",
+            "account": "254242-0",
+            "accountType": "Conta Corrente Especial",
+            "accountHolder": "Clear Reparos de Computadores - LTDA"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Pamela de Oliveira Pinto",
+            "email": "pamela.o.p.26@hotmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "7 dias úteis",
+        "stdQty": 41508,
+        "minimumQty": 37548
+    },
+    {
+        "id": 81302,
+        "code": "I-M005",
+        "accountGroup": "Fornecedores de Mercadoria",
+        "searchTerm": "IT005",
+        "name": "2 irmãos tecnológicos - LTDA",
+        "phone": "(11) 4984-5526",
+        "email": "irmaos_tecnologicos@gmail.com",
+        "address": "Travessa Caixa de Previdência, 005 - Planalto Paulista - São Paulo - SP",
+        "payments": {
+            "id": 57401,
+            "country": "BRASIL",
+            "bankKey": "341",
+            "agency": "0623",
+            "account": "87267-8",
+            "accountType": "Conta Corrente",
+            "accountHolder": "2 irmãos tecnológicos - LTDA"
+        },
+        "representative": {
+            "id": 58547,
+            "name": "Luciano Batista Rocha",
+            "email": "luciano_rocha1219@hotmail.com",
+            "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+            "idVendor": 3214
+        },
+        "stdDeliveryTime": "12 dias úteis",
+        "stdQty": 46965,
+        "minimumQty": 35442
+    }
+]

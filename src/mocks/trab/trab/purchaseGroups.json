@@ -1,0 +1,16 @@
+[
+    {
+        "id": 10856,
+        "name": "Materiais de Informática",
+        "description": "Responsável pela compra de periféricos e contratação de serviços",
+        "phone": "0800 0235338",
+        "mail": "compras-ti@femsa.com"
+    },
+    {
+        "id": 18818,
+        "name": "Materiais de Escritório",
+        "description": "Perferendis aut quasi praesentium dolores dolores tempora consequatur voluptate. Possimus perferendis quia deserunt quisquam aut aliquid est deserunt vero. Facere et incidunt numquam asperiores.",
+        "phone": "0800 121443",
+        "mail": "compras-escritorio@femsa.com"
+    }
+]

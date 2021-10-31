@@ -1,0 +1,48 @@
+[
+    {
+        "id": 73298,
+        "name": "Benício Souza",
+        "email": "souza.benicio@gmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/travishines_128.jpg",
+        "center": {
+            "id": 99061,
+            "name": "FEMSA - Ribeirão Preto",
+            "languageCode": "pt-BR",
+            "street": "Avenida Dom Pedro I, 2.270, Ipiranga",
+            "city": "Ribeirão Preto",
+            "state": "São Paulo",
+            "zipCode": "14055-630",
+            "country": "Brasil"
+        },
+        "groups": {
+            "id": 10856,
+            "name": "Materiais de Informática",
+            "description": "Responsável pela compra de periféricos e contratação de serviços",
+            "phone": "0800 0235338",
+            "mail": "compras-ti@femsa.com"
+        }
+    },
+    {
+        "id": 43353,
+        "name": "Beatriz Pereira",
+        "email": "Lorena44@bol.com.br",
+        "avatar": "https://cdn.fakercloud.com/avatars/marcusgorillius_128.jpg",
+        "center": {
+            "id": 59628,
+            "name": "FEMSA - SOROCABA",
+            "languageCode": "pt-BR",
+            "street": "Rodovia Raposo Tavares, Km 104 - Jardim Itanguá",
+            "city": "Sorocaba",
+            "state": "SP",
+            "zipCode": "8052-280",
+            "country": "Brasil"
+        },
+        "groups": {
+            "id": 18818,
+            "name": "Materiais de Escritório",
+            "description": "Perferendis aut quasi praesentium dolores dolores tempora consequatur voluptate. Possimus perferendis quia deserunt quisquam aut aliquid est deserunt vero. Facere et incidunt numquam asperiores.",
+            "phone": "0800 121443",
+            "mail": "compras-escritorio@femsa.com"
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    
+    {
+        "id": 58634,
+        "userId": 58123,
+        "dashboardRole": "representative"
+    },
+    {
+        "id": 52448,
+        "userId": 26129,
+        "dashboardRole": "representative"
+    },
+    {
+        "id": 58767,
+        "userId": 42227,
+        "dashboardRole": "representative"
+    },
+    {
+        "id": 23273,
+        "userId": 27863,
+        "dashboardRole": "representative"
+    },
+    {
+        "id":35467,
+        "userId":19122,
+        "dashboardRole":"representative"
+    },
+    {
+        "id":12458,
+        "userId":90127,
+        "dashboardRole":"representative"
+    },
+    {
+        "id":85497,
+        "userId":42227,
+        "dashboardRole":"representative"
+    },
+    {
+        "id":12794,
+        "userId":27863,
+        "dashboardRole":"representative"
+    },
+    {
+        "id":65498,
+        "userId":58547,
+        "dashboardRole":"representative"
+    },
+    {
+        "id": 72888,
+        "userId": 73298,
+        "dashboardRole": "operator"
+    },
+    {
+        "id": 29850,
+        "userId": 43353,
+        "dashboardRole": "operator"
+    }
+]

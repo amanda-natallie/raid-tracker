@@ -1,0 +1,311 @@
+[
+    {
+        "id": 83866,
+        "name": "Costa EIRELI",
+        "notes": "Eum vero nulla aspernatur. Quod odio est et atque et odit explicabo magnam quia. Itaque nemo voluptas reprehenderit aut sed. Consequuntur optio dicta eum quasi accusamus tempora tempora odio. Qui eius et asperiores facere. Reiciendis alias nulla culpa.",
+        "vendors": [
+            {
+                "id": 23666,
+                "code": "3652",
+                "accountGroup": "Fornecedores de Serviços",
+                "searchTerm": "7748",
+                "name": "Santos - Barros",
+                "phone": "(34) 5456-4828",
+                "email": "Marcela_Batista80@hotmail.com",
+                "address": "86320 Martins Travessa",
+                "payments": {
+                    "id": 35129,
+                    "country": "Armênia",
+                    "bankKey": "99816998",
+                    "agency": "04410105",
+                    "account": "38055108",
+                    "accountType": "Savings Account",
+                    "accountHolder": "Rebeca Pereira"
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "doloribus",
+                "stdQty": 13332,
+                "minimumQty": 3227
+            },
+            {
+                "id": 42488,
+                "code": "6154",
+                "accountGroup": "Fornecedores de Mercadoria",
+                "searchTerm": "9894",
+                "name": "Pereira Comércio",
+                "phone": "+55 (51) 9677-8139",
+                "email": "Roberto36@bol.com.br",
+                "address": "2185 Luiza Marginal",
+                "payments": {
+                    "id": 60000,
+                    "country": "Eslováquia",
+                    "bankKey": "84162662",
+                    "agency": "95685475",
+                    "account": "42507703",
+                    "accountType": "Personal Loan Account",
+                    "accountHolder": "Arthur Barros"
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "eius",
+                "stdQty": 73853,
+                "minimumQty": 33031
+            },
+            {
+                "id": 90362,
+                "code": "2959",
+                "accountGroup": "Fornecedores Ocasionais",
+                "searchTerm": "4971",
+                "name": "Pereira e Associados",
+                "phone": "(57) 8253-9937",
+                "email": "Feliciano48@yahoo.com",
+                "address": "31789 Larissa Marginal",
+                "payments": {
+                    "id": 39510,
+                    "country": "Myanmar",
+                    "bankKey": "24857039",
+                    "agency": "60828515",
+                    "account": "23301085",
+                    "accountType": "Home Loan Account",
+                    "accountHolder": "Gúbio Carvalho Jr."
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "nesciunt",
+                "stdQty": 88087,
+                "minimumQty": 8704
+            },
+            {
+                "id": 99268,
+                "code": "6696",
+                "accountGroup": "Fornecedores de Serviços",
+                "searchTerm": "2333",
+                "name": "Moraes - Moraes",
+                "phone": "(84) 05073-7534",
+                "email": "Tho98@gmail.com",
+                "address": "53905 Alícia Alameda",
+                "payments": {
+                    "id": 5005,
+                    "country": "Suíça",
+                    "bankKey": "22284331",
+                    "agency": "70571209",
+                    "account": "98784426",
+                    "accountType": "Savings Account",
+                    "accountHolder": "Rafael Silva"
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "ut",
+                "stdQty": 41508,
+                "minimumQty": 37548
+            },
+            {
+                "id": 81302,
+                "code": "2112",
+                "accountGroup": "Fornecedores de Mercadoria",
+                "searchTerm": "7174",
+                "name": "Xavier LTDA",
+                "phone": "+55 (47) 6177-2428",
+                "email": "Bernardo_Saraiva44@gmail.com",
+                "address": "09199 Carla Travessa",
+                "payments": {
+                    "id": 57401,
+                    "country": "Jersey",
+                    "bankKey": "61642899",
+                    "agency": "38921657",
+                    "account": "04672728",
+                    "accountType": "Checking Account",
+                    "accountHolder": "Suélen Carvalho"
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "est",
+                "stdQty": 46965,
+                "minimumQty": 35442
+            }
+        ],
+        "center": {
+            "id": 99061,
+            "name": "Franco Comércio",
+            "languageCode": "pt",
+            "street": "93597 Pietro Rodovia",
+            "city": "undefined Lorena",
+            "state": "Maranhão",
+            "zipCode": "76408-887",
+            "country": "Brasil"
+        },
+        "groups": {
+            "id": 10856,
+            "name": "Materiais de Informática",
+            "description": "In et officia officia aut. Omnis minus commodi ratione quam recusandae sint officiis consequatur rerum. Labore dignissimos nulla. Ut eveniet nemo.",
+            "phone": "(40) 6093-2442",
+            "mail": "compras-ti@femsa.com"
+        }
+    },
+    {
+        "id": 38298,
+        "name": "Xavier e Associados",
+        "notes": "Et et id atque ut culpa exercitationem. Dolorum amet omnis ratione consequuntur. Reiciendis cupiditate totam dolor explicabo blanditiis. Consectetur molestias culpa tenetur omnis qui minima non ipsam. Ratione nisi adipisci facilis occaecati. Et culpa qui aut.",
+        "vendors": [
+            {
+                "id": 58671,
+                "code": "9034",
+                "accountGroup": "Fornecedores",
+                "searchTerm": "0596",
+                "name": "Barros, Saraiva and Barros",
+                "phone": "+55 (39) 4962-4301",
+                "email": "Esther_Martins22@gmail.com",
+                "address": "2482 Carvalho Rua",
+                "payments": {
+                    "id": 70487,
+                    "country": "Taiwan",
+                    "bankKey": "82645944",
+                    "agency": "41181509",
+                    "account": "97275331",
+                    "accountType": "Credit Card Account",
+                    "accountHolder": "Rebeca Santos"
+                },
+                "representative": {
+                    "id": 90127,
+                    "name": "Bruna Xavier",
+                    "email": "bruna>@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/benefritz_128.jpg",
+                    "idVendor": 8552
+                },
+                "stdDeliveryTime": "et",
+                "stdQty": 44781,
+                "minimumQty": 63922
+            },
+            {
+                "id": 16757,
+                "code": "3973",
+                "accountGroup": "Fornecedores Ocasionais",
+                "searchTerm": "3423",
+                "name": "Souza S.A.",
+                "phone": "(20) 47911-4915",
+                "email": "Gustavo.Souza@yahoo.com",
+                "address": "616 Souza Alameda",
+                "payments": {
+                    "id": 47983,
+                    "country": "Egito",
+                    "bankKey": "33103507",
+                    "agency": "78383260",
+                    "account": "40577197",
+                    "accountType": "Money Market Account",
+                    "accountHolder": "Deneval Silva"
+                },
+                "representative": {
+                    "id": 42227,
+                    "name": "Natália Barros Filho",
+                    "email": "natalia@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/itskawsar_128.jpg",
+                    "idVendor": 51077
+                },
+                "stdDeliveryTime": "et",
+                "stdQty": 1456,
+                "minimumQty": 3040
+            },
+            {
+                "id": 49590,
+                "code": "3644",
+                "accountGroup": "Fornecedores de Serviços",
+                "searchTerm": "1172",
+                "name": "Souza Comércio",
+                "phone": "(61) 3977-2384",
+                "email": "Joaquim.Carvalho@bol.com.br",
+                "address": "3475 Bryan Alameda",
+                "payments": {
+                    "id": 53814,
+                    "country": "Angola",
+                    "bankKey": "59112590",
+                    "agency": "45717881",
+                    "account": "21230119",
+                    "accountType": "Checking Account",
+                    "accountHolder": "Maria Júlia Pereira"
+                },
+                "representative": {
+                    "id": 27863,
+                    "name": "Lucas Saraiva",
+                    "email": "lucas.saraiva@live.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/dudestein_128.jpg",
+                    "idVendor": 13497
+                },
+                "stdDeliveryTime": "molestias",
+                "stdQty": 72619,
+                "minimumQty": 90893
+            },
+            {
+                "id": 6934,
+                "code": "6626",
+                "accountGroup": "Fornecedores Ocasionais",
+                "searchTerm": "0844",
+                "name": "Santos, Carvalho and Moreira",
+                "phone": "(65) 93491-8404",
+                "email": "Antonella_Melo37@hotmail.com",
+                "address": "15452 Yuri Marginal",
+                "payments": {
+                    "id": 19450,
+                    "country": "Nova Caledonia",
+                    "bankKey": "23020181",
+                    "agency": "91982485",
+                    "account": "36165344",
+                    "accountType": "Home Loan Account",
+                    "accountHolder": "Roberta Albuquerque"
+                },
+                "representative": {
+                    "id": 58547,
+                    "name": "Tertuliano Melo",
+                    "email": "Paulo_Batista85@hotmail.com",
+                    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+                    "idVendor": 3214
+                },
+                "stdDeliveryTime": "qui",
+                "stdQty": 18653,
+                "minimumQty": 95320
+            }
+        ],
+        "center": {
+            "id": 59628,
+            "name": "Xavier - Braga",
+            "languageCode": "pt",
+            "street": "81478 Moreira Alameda",
+            "city": "Saraiva do Descoberto",
+            "state": "Piauí",
+            "zipCode": "21147-792",
+            "country": "Brasil"
+        },
+        "groups": {
+            "id": 18818,
+            "name": "Materiais de Escritório",
+            "description": "Perferendis aut quasi praesentium dolores dolores tempora consequatur voluptate. Possimus perferendis quia deserunt quisquam aut aliquid est deserunt vero. Facere et incidunt numquam asperiores.",
+            "phone": "(94) 01957-4440",
+            "mail": "compras-escritorio@femsa.com"
+        }
+    }
+]

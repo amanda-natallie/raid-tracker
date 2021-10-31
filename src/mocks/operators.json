@@ -1,0 +1,48 @@
+[
+    {
+        "id": 73298,
+        "name": "Sra. Benício Souza",
+        "email": "Felcia.Oliveira68@gmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/travishines_128.jpg",
+        "center": {
+            "id": 99061,
+            "name": "Franco Comércio",
+            "languageCode": "pt",
+            "street": "93597 Pietro Rodovia",
+            "city": "undefined Lorena",
+            "state": "Maranhão",
+            "zipCode": "76408-887",
+            "country": "Brasil"
+        },
+        "purchaseGroup": {
+            "id": 10856,
+            "name": "Materiais de Informática",
+            "description": "In et officia officia aut. Omnis minus commodi ratione quam recusandae sint officiis consequatur rerum. Labore dignissimos nulla. Ut eveniet nemo.",
+            "phone": "(40) 6093-2442",
+            "mail": "compras-ti@femsa.com"
+        }
+    },
+    {
+        "id": 43353,
+        "name": "Beatriz Pereira",
+        "email": "Lorena44@bol.com.br",
+        "avatar": "https://cdn.fakercloud.com/avatars/marcusgorillius_128.jpg",
+        "center": {
+            "id": 59628,
+            "name": "Xavier - Braga",
+            "languageCode": "pt",
+            "street": "81478 Moreira Alameda",
+            "city": "Saraiva do Descoberto",
+            "state": "Piauí",
+            "zipCode": "21147-792",
+            "country": "Brasil"
+        },
+        "purchaseGroup": {
+            "id": 18818,
+            "name": "Materiais de Escritório",
+            "description": "Perferendis aut quasi praesentium dolores dolores tempora consequatur voluptate. Possimus perferendis quia deserunt quisquam aut aliquid est deserunt vero. Facere et incidunt numquam asperiores.",
+            "phone": "(94) 01957-4440",
+            "mail": "compras-escritorio@femsa.com"
+        }
+    }
+]

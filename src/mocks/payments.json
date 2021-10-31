@@ -1,0 +1,92 @@
+[
+    {
+        "id": 70487,
+        "country": "Taiwan",
+        "bankKey": "82645944",
+        "agency": "41181509",
+        "account": "97275331",
+        "accountType": "Credit Card Account",
+        "accountHolder": "Rebeca Santos"
+    },
+    {
+        "id": 47983,
+        "country": "Egito",
+        "bankKey": "33103507",
+        "agency": "78383260",
+        "account": "40577197",
+        "accountType": "Money Market Account",
+        "accountHolder": "Deneval Silva"
+    },
+    {
+        "id": 53814,
+        "country": "Angola",
+        "bankKey": "59112590",
+        "agency": "45717881",
+        "account": "21230119",
+        "accountType": "Checking Account",
+        "accountHolder": "Maria Júlia Pereira"
+    },
+    {
+        "id": 19450,
+        "country": "Nova Caledonia",
+        "bankKey": "23020181",
+        "agency": "91982485",
+        "account": "36165344",
+        "accountType": "Home Loan Account",
+        "accountHolder": "Roberta Albuquerque"
+    },
+    {
+        "id": 35129,
+        "country": "Armênia",
+        "bankKey": "99816998",
+        "agency": "04410105",
+        "account": "38055108",
+        "accountType": "Savings Account",
+        "accountHolder": "Rebeca Pereira"
+    },
+    {
+        "id": 84491,
+        "country": "Alemanha",
+        "bankKey": "90541394",
+        "agency": "48109875",
+        "account": "17434975",
+        "accountType": "Investment Account",
+        "accountHolder": "Bruna Pereira"
+    },
+    {
+        "id": 60000,
+        "country": "Eslováquia",
+        "bankKey": "84162662",
+        "agency": "95685475",
+        "account": "42507703",
+        "accountType": "Personal Loan Account",
+        "accountHolder": "Arthur Barros"
+    },
+    {
+        "id": 39510,
+        "country": "Myanmar",
+        "bankKey": "24857039",
+        "agency": "60828515",
+        "account": "23301085",
+        "accountType": "Home Loan Account",
+        "accountHolder": "Gúbio Carvalho Jr."
+    },
+    {
+        "id": 5005,
+        "country": "Suíça",
+        "bankKey": "22284331",
+        "agency": "70571209",
+        "account": "98784426",
+        "accountType": "Savings Account",
+        "accountHolder": "Rafael Silva"
+    },
+    {
+        "id": 57401,
+        "country": "Jersey",
+        "bankKey": "61642899",
+        "agency": "38921657",
+        "account": "04672728",
+        "accountType": "Checking Account",
+        "accountHolder": "Suélen Carvalho"
+    }
+]

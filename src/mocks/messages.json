@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "ticketId": "9bce02c",
+        "title": "Devilwood",
+        "description": "<p>Olá, Suellen!</p><p>Bom dia, tudo bem?</p><p>Estamos verificando o reporte feito acerca da entrega realizada no dia 15/09/2021.</p><p>Em breve retornaremos em contato.</p><p>Abraço,</p><p>Cordialmente,</p><p>Suporte Montreau</p>",
+        "url": "/ticket/9bce02c",
+        "when": "24/11/2021 as 15:56",
+        "from": "Jacobi, Kautzer and Johns"
+    },
+    {
+        "id": 2,
+        "ticketId": "9bce02c",
+        "title": "Maltesecross",
+        "description": "<p>Bom dia!</p><p>No dia 28/07/2021 realizamos um pedido 48 ripas de madeira, porém ao receber a entrega no dia 15/09/2021 notamos avaria nas peças. </p><p>Preciso que 25 delas sejam trocadas ou que o valor seja ressarcido em sua totalidade. </p><p>Caso queiram, podem enviar um técnico para vistoria das mesmas.</p><br /><p>Aguardo retorno,</p><p>Suellen Marques</p>",
+        "url": "/ticket/9bce02c",
+        "when": "11/07/2021 as 15:46",
+        "from": "Suellen Marques"
+    },
+    {
+        "id": 3,
+        "ticketId": "9bce02c",
+        "title": "Maltesecross",
+        "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "url": "/ticket/2",
+        "when": "11/07/2021",
+        "from": "Gutkowski and Sons"
+    }
+]

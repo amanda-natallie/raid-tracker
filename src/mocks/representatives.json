@@ -1,0 +1,30 @@
+[
+    {
+        "id": 90127,
+        "name": "Bruna Xavier",
+        "email": "bruna>@hotmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/benefritz_128.jpg",
+        "idVendor": 58671
+    },
+    {
+        "id": 42227,
+        "name": "Natália Barros Filho",
+        "email": "natalia@hotmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/itskawsar_128.jpg",
+        "idVendor": 16757
+    },
+    {
+        "id": 27863,
+        "name": "Lucas Saraiva",
+        "email": "lucas.saraiva@live.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/dudestein_128.jpg",
+        "idVendor": 49590
+    },
+    {
+        "id": 58547,
+        "name": "Tertuliano Melo",
+        "email": "Paulo_Batista85@hotmail.com",
+        "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+        "idVendor": 6934
+    }
+]

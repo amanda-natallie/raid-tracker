@@ -1,0 +1,78 @@
+[
+    {
+        "purchaseRequisition": {
+            "_id": "617b28707b91b61a000b9941",
+            "id": 890,
+            "trackerNumber": 759,
+            "type": "IN - Req. compra Comercio I",
+            "requisitionGoal": "Reposição de estoque ",
+            "status": "Requisição Criada",
+            "productList": [
+                {
+                    "id": 43065,
+                    "code": "I-S001",
+                    "material": "SSD KINGSTON ",
+                    "description": "Asperiores sit voluptas officia nemo unde. Dolorem facilis doloremque delectus alias sapiente iste sequi magnam eum.",
+                    "materialGroup": "Material de Informática",
+                    "qtyRequested": 100,
+                    "deliveryEstimation": "14 dias úteis",
+                    "requestDate": "2021-10-23T00:00:00.000Z",
+                    "releaseDate": "2022-01-30T00:00:00.000Z",
+                    "valuationPrice": 20000,
+                    "status": "Liberado",
+                    "createdBy": "Benício Souza",
+                    "modifiedBy": "Benício Souza",
+                    "notes": "Preciso da especificação - SSD Kingston A400, 240GB, SATA, Leitura 500MB/s, Gravação 350MB/s - SA400S37/240G"
+                },
+                {
+                    "id": 18043,
+                    "code": "I-T003",
+                    "material": "Teclado Logitech",
+                    "description": "Asperiores sit voluptas officia nemo unde. Dolorem facilis doloremque delectus alias sapiente iste sequi magnam eum.",
+                    "materialGroup": "Material de Informática",
+                    "qtyRequested": 62,
+                    "deliveryEstimation": "16 dias úteis",
+                    "requestDate": "2021-09-25T00:00:00.000Z",
+                    "releaseDate": "2022-03-05T00:00:00.000Z",
+                    "valuationPrice": 3410,
+                    "status": "Bloqueado",
+                    "createdBy": "Beatriz Pereira",
+                    "modifiedBy": "Beatriz Pereira",
+                    "notes": "Teclado Logitech com as especificações - K120, ABNT2 - 920-004423"
+                },
+                {
+                    "id": 20072,
+                    "code": "I-C009",
+                    "material": "Notebook",
+                    "description": "Asperiores sit voluptas officia nemo unde. Dolorem facilis doloremque delectus alias sapiente iste sequi magnam eum.",
+                    "materialGroup": "Material de Informática",
+                    "qtyRequested": 5,
+                    "deliveryEstimation": "14 dias úteis",
+                    "requestDate": "2020-12-24T00:00:00.000Z",
+                    "releaseDate": "2022-02-18T00:00:00.000Z",
+                    "valuationPrice": 19995,
+                    "status": "Devolvido",
+                    "createdBy": "Benício Souza",
+                    "modifiedBy": "Benício Souza",
+                    "notes": "Especificações para o Notebook: Samsung, Processador Core i5, 8GB de Memória, 1TB de Armazenamento, Tela de 15.6\", NP550XDA-KF1BR"
+                }
+            ],
+            "isApproved": true,
+            "submittedToSenniorAt": "2021-10-28T22:38:28.907Z",
+            "subtotal": 0,
+            "notes": "",
+            "requestedBy": "",
+            "purchaseCenter": "",
+            "seniorComment": "",
+            "openenedAt": ""
+        },
+        "type": "AB",
+        "requestDate": "2021-01-05T14:28:01.787Z",
+        "reference": {
+            "name": "Benicio Franco",
+            "number": 82543,
+            "phone": "+55 (11) 5366-6138"
+        },
+        "RFQColet": "959021"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 59628,
+        "name": "Xavier - Braga",
+        "languageCode": "pt",
+        "street": "81478 Moreira Alameda",
+        "city": "Saraiva do Descoberto",
+        "state": "Piauí",
+        "zipCode": "21147-792",
+        "country": "Brasil"
+    },
+    {
+        "id": 99061,
+        "name": "Franco Comércio",
+        "languageCode": "pt",
+        "street": "93597 Pietro Rodovia",
+        "city": "undefined Lorena",
+        "state": "Maranhão",
+        "zipCode": "76408-887",
+        "country": "Brasil"
+    }
+]
