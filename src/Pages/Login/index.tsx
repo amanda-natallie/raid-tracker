@@ -40,11 +40,22 @@ const LoginPage: FC = (): JSX.Element => {
             children: null,
         },
     });
+    interface RaceProps {
+        value: string;
+        label: string;
+    }
+
+    interface ClassProps extends RaceProps {
+        races: Array<string>;
+    }
+    interface EspecializationProps extends RaceProps {
+        class: string;
+    }
 
     const [filteredClasses, setFilteredClasses] = useState<any[]>([]);
     const [filteredEspecializations, setFilteredEspecializations] = useState<any[]>([]);
 
-    const raceOptions = [
+    const raceOptions: RaceProps[] = [
         {
             value: 'ORC',
             label: 'Orc',
@@ -95,7 +106,7 @@ const LoginPage: FC = (): JSX.Element => {
         },
     ];
 
-    const availableClasses = [
+    const availableClasses: ClassProps[] = [
         {
             value: 'DEATH KNIGHT',
             label: 'Cavaleiro da Morte / Death Knight',
@@ -176,7 +187,7 @@ const LoginPage: FC = (): JSX.Element => {
         {
             value: 'SHAMAN',
             label: 'Xamã / Shaman',
-            RACES: raceOptions
+            races: raceOptions
                 .filter((e) => e.value !== 'BLOOD ELF' && e.value !== 'UNDEAD' && e.value !== 'NIGHTBORNE')
                 .map((e) => e.value),
         },
@@ -201,7 +212,7 @@ const LoginPage: FC = (): JSX.Element => {
         },
     ];
 
-    const availableEspecializations = [
+    const availableEspecializations: EspecializationProps[] = [
         {
             value: 'ARMS',
             label: 'Arms / Armas',
@@ -383,7 +394,6 @@ const LoginPage: FC = (): JSX.Element => {
             class: 'DEATH KNIGHT',
         },
     ];
-
     const handleRaceChange = (e: any): void => {
         formik.setFieldValue('class', null);
         setFilteredClasses([]);
@@ -403,6 +413,7 @@ const LoginPage: FC = (): JSX.Element => {
             formik.setFieldValue('race', '');
         }
     };
+
     const handleClassChange = (e: any): void => {
         formik.setFieldValue('especialization', null);
         setFilteredEspecializations([]);
@@ -435,7 +446,7 @@ const LoginPage: FC = (): JSX.Element => {
             especialization: Yup.string().required('Digite a especialização do seu personagem'),
             race: Yup.string().required('Escolha a raça do seu personagem'),
             whatsapp: Yup.string().required('Digite seu whatsapp'),
-            ilv: Yup.string().required('Digite seu item level'),
+            ilv: Yup.number().typeError('Digite um número válido entre 200 e 260').required(),
         }),
         validateOnBlur: true,
         validateOnChange: false,
@@ -467,8 +478,14 @@ const LoginPage: FC = (): JSX.Element => {
         },
     });
     useEffect(() => {
-        console.log('formik.values', formik.values);
+        //do nothing
     }, [formik]);
+    const cardStyles = {
+        margin: 'auto',
+        maxWidth: '80vw',
+        marginBottom: 50,
+        backgroundColor: 'rgba(255,255,255, 0.95) !important',
+    };
     return (
         <>
             <Dialog {...dialogInfo} />
@@ -481,28 +498,26 @@ const LoginPage: FC = (): JSX.Element => {
                     overflowY: 'auto',
                 }}
             >
-                <Card
-                    customStyles={{
-                        margin: 'auto',
-                        maxWidth: '80vw',
-                        marginBottom: 50,
-                        backgroundColor: 'rgba(255,255,255, 0.95) !important',
-                    }}
-                    noPadding
-                >
-                    <img src={logo} alt="logo" style={{ width: '100%', display: 'inline-block' }} />
-                    <Typography customStyles={{ marginTop: '20px', textAlign: 'center' }} as="h6">
-                        Bem vindo ao Raid Tracker Beta.
-                    </Typography>
-                    <Typography customStyles={{ marginTop: '5px', textAlign: 'center' }} as="small">
-                        Preencha as informações abaixo para continuar.
-                    </Typography>
-                    <form onSubmit={formik.handleSubmit} style={{ marginLeft: '-5px', textAlign: 'left' }}>
+                <form onSubmit={formik.handleSubmit} style={cardStyles}>
+                    <Card customStyles={cardStyles} noPadding>
                         <FlexBox
                             customStyles={{ width: '90%', height: '100%', padding: '20px 0px', margin: 'auto' }}
                             direction="column"
                         >
-                            <Divider borderColor={colors.text.secondary} />
+                            <img src={logo} alt="logo" style={{ width: '100%', display: 'inline-block' }} />
+                            <Typography customStyles={{ marginTop: '20px', textAlign: 'center' }} as="h6">
+                                Bem vindo ao Raid Tracker Beta.
+                            </Typography>
+                            <Typography customStyles={{ marginTop: '5px', textAlign: 'center' }} as="small">
+                                Preencha as informações abaixo para continuar.
+                            </Typography>
+                        </FlexBox>
+                    </Card>
+                    <Card customStyles={cardStyles} noPadding>
+                        <FlexBox
+                            customStyles={{ width: '90%', height: '100%', padding: '20px 0px', margin: 'auto' }}
+                            direction="column"
+                        >
                             <Typography as="h5" customStyles={{ textAlign: 'center' }}>
                                 Seus dados
                             </Typography>
@@ -587,8 +602,11 @@ const LoginPage: FC = (): JSX.Element => {
                                     )}
                                 </div>
                             </Col>
-
-                            <Divider borderColor={colors.text.secondary} />
+                        </FlexBox>
+                    </Card>
+                    <Card customStyles={cardStyles} noPadding>
+                        <FlexBox customStyles={{ paddingBlock: 0 }}>
+                            <br />
                             <Typography as="h5" customStyles={{ textAlign: 'center' }}>
                                 Informações do personagem
                             </Typography>
@@ -607,6 +625,9 @@ const LoginPage: FC = (): JSX.Element => {
                                 />
                             </Col>
                             <br />
+                            <Typography as="small" customStyles={{ color: colors.red, paddingInline: 5 }}>
+                                Escolha a raça para carregar as classes e especializações
+                            </Typography>
                             <Col size={12}>
                                 <SearchSelect
                                     label="Raça"
@@ -697,8 +718,8 @@ const LoginPage: FC = (): JSX.Element => {
                             </Button>
                         </FlexBox>
                         <br />
-                    </form>
-                </Card>
+                    </Card>
+                </form>
             </Row>
         </>
     );
